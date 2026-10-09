@@ -1,0 +1,38 @@
+# Environment files (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# Hardhat artifacts
+artifacts/
+cache/
+typechain-types/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python
+.pytest_cache/
+*.egg-info/

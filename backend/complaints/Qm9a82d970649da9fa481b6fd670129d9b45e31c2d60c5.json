@@ -1,0 +1,11 @@
+{
+  "category": "Road Damage",
+  "sub_category": "Pothole",
+  "location": "MG Road near banyan tree",
+  "duration": "unknown",
+  "severity": 4,
+  "department": "Public Works",
+  "summary": "Massive pothole near banyan tree on MG Road caused a near bike crash",
+  "raw_text": "Massive pothole near banyan tree on MG Road, almost crashed my bike today",
+  "reporter": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+}

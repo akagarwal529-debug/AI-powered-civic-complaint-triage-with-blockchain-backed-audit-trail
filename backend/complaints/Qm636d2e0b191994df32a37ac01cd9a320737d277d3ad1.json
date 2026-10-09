@@ -1,0 +1,11 @@
+{
+  "category": "Streetlight",
+  "sub_category": "Flickering Streetlight",
+  "location": "House 42, Nehru Nagar",
+  "duration": "1 week",
+  "severity": 2,
+  "department": "Electricity Board",
+  "summary": "Flickering streetlight outside House 42, Nehru Nagar for a week, hindering children's study.",
+  "raw_text": "Streetlight outside house 42 on Nehru Nagar flickering for a week, kids can't study",
+  "reporter": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+}

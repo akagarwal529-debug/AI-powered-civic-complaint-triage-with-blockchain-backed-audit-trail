@@ -1,0 +1,11 @@
+{
+  "category": "Water Supply",
+  "sub_category": "Pipe Burst",
+  "location": "Sector 4 Park",
+  "duration": "3 days",
+  "severity": 3,
+  "department": "Water Board",
+  "summary": "Bursting water pipe near Sector 4 Park has flooded the road for 3 days, creating slipping hazards for children.",
+  "raw_text": "Water pipe bursting near sector 4 park, road flooded for 3 days, kids slipping",
+  "reporter": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+}
